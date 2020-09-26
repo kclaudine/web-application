@@ -14,7 +14,20 @@ My project is a web application whic take a user's birthday and calculates the d
  * Ubuntu setup
  * Active terminal
  * Visual studio code
- * Or Atom Or Any Other Text Editor You May Have
+ * Or Atom Or Any Other Text Editor You May Have.
+
+ ## Technologies Used:
+
+ * HTML5
+ * CSS
+ * JavaScript
+ * Bootstrap
+ * markdown
+
+ ## BDD
+
+ 
+
 
 
 
