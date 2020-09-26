@@ -8,7 +8,14 @@ My project is a web application whic take a user's birthday and calculates the d
 
 [Claudine-Kuradusenge] (https://github.com/kclaudine/web-application)
 
- 
+ ## Setup instructions / Installation
+
+ * Google chrome
+ * Ubuntu setup
+ * Active terminal
+ * Visual studio code
+ * Or Atom Or Any Other Text Editor You May Have
+
 
 
 
