@@ -24,6 +24,10 @@ My project is a web application whic take a user's birthday and calculates the d
  * Bootstrap
  * markdown
 
+## Known Bugs
+
+Some result are not accurate as expected.
+
  ## BDD
 
  * Enter century of birth example 20 for 2020
