@@ -78,6 +78,12 @@ My project is a web application whic take a user's birthday and calculates the d
 
  If you have any question, suggestion, comment or contribution, you can email me at claudinekuradusenge2@gmail.com
 
+ ## Licence 
+
+ * MIT 
+
+ * Copyright (c) 2020 **Claudine Kuradusenge**
+
 
 
 
