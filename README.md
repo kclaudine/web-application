@@ -26,6 +26,13 @@ My project is a web application whic take a user's birthday and calculates the d
 
  ## BDD
 
+ * Enter century of birth example 20 for 2020
+ 
+ Input Example 20
+ 
+ Output example 20
+
+ Enter Year of Birth example 20 for 2020
  
 
 
