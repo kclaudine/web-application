@@ -30,7 +30,7 @@ My project is a web application whic take a user's birthday and calculates the d
 
 ## Known Bugs
 
-Some result are not accurate as expected.
+Some result are not as accurate as expected.
 
  ## BDD
 
