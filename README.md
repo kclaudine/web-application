@@ -6,7 +6,7 @@ My project is a web application whic take a user's birthday and calculates the d
 
 ## Screenshot
 
-<img src="Screenshot from 2020-09-27 18-21-58.png" width="800px" height="400px">
+<img src="Screenshot from 2020-09-27 18-21-58.png" width="400px" height="300px">
 
 ## Author
 
@@ -23,7 +23,7 @@ My project is a web application whic take a user's birthday and calculates the d
  ## Technologies Used:
 
  * HTML5
- * CSS
+ * CSS3
  * JavaScript
  * Bootstrap
  * markdown
