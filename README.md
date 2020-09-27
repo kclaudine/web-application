@@ -4,6 +4,10 @@
 
 My project is a web application whic take a user's birthday and calculates the day of the week they were born and then depending on their gender print out their akan name.
 
+## Screenshoot
+
+<img src="/home/wecode/Documents/moringa-school-projects/web-application/Screenshot from 2020-09-27 18-05-11.png" width="800px" height="400px">
+
 ## Author
 
 [Claudine-Kuradusenge] (https://github.com/kclaudine/web-application)
